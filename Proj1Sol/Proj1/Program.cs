@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace Proj1
 {
-    class Program
+    partial class Program
     {
         static void Main(string[] args)
         {
+            Program prog = new Program();
+            prog.Print2();
+            Console.ReadKey();
         }
     }
 }
