@@ -1,0 +1,7 @@
+H:\LTI\Splz\Day1\New folder\Proj1Sol\Proj1\bin\Debug\Proj1.exe.config
+H:\LTI\Splz\Day1\New folder\Proj1Sol\Proj1\bin\Debug\Proj1.exe
+H:\LTI\Splz\Day1\New folder\Proj1Sol\Proj1\bin\Debug\Proj1.pdb
+H:\LTI\Splz\Day1\New folder\Proj1Sol\Proj1\obj\Debug\Proj1.csprojAssemblyReference.cache
+H:\LTI\Splz\Day1\New folder\Proj1Sol\Proj1\obj\Debug\Proj1.csproj.CoreCompileInputs.cache
+H:\LTI\Splz\Day1\New folder\Proj1Sol\Proj1\obj\Debug\Proj1.exe
+H:\LTI\Splz\Day1\New folder\Proj1Sol\Proj1\obj\Debug\Proj1.pdb
